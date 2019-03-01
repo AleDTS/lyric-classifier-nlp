@@ -1,0 +1,6 @@
+flask
+pandas
+nltk
+joblib
+sklearn
+jupyter
